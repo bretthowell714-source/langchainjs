@@ -1,4 +1,4 @@
-# 🦜️🔗 LangChain.js
+npm install @langchain/cerebras @langchain/core6# 🦜️🔗 LangChain.js
 
 ![npm](https://img.shields.io/npm/dm/langchain) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/langchainai.svg?style=social&label=Follow%20%40LangChainAI)](https://twitter.com/langchainai)
 
